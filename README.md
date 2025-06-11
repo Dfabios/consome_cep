@@ -76,6 +76,4 @@ Contribuições são bem-vindas! Fique à vontade para abrir issues ou enviar pu
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
----
 
-Se quiser que eu crie um `README.md` com base no seu código r
